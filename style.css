@@ -1,0 +1,67 @@
+body  {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #eee;
+}
+
+button{
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 40px;
+}
+
+table {
+  padding: 10px 10px;
+  border: 1px solid #eee;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+td {
+  background-color: blue;
+  color: black;
+  text-align: center;
+}
+
+.b1 {
+  background-color: red;
+}
+
+.b2 {
+  background-color: orange;
+}
+
+.b3 {
+  background-color: Yellow;
+}
+
+.b4 {
+  background-color: Green;
+}
+
+.b5 {
+  background-color: brown;
+}
+
+.b6 {
+  background-color: blue;
+}
+
+.b7 {
+  background-color: white;
+}
+
+.b8 {
+  background-color: grey;
+}
+
+.b9 {
+  background-color: pink;
+}
+
+.invisible {
+  visibility: visible;
+}
